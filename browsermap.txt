@@ -1,0 +1,8 @@
+google:google.com
+youtube:youtube.com
+facebook:facebook.com
+gmail:gmail.com
+github:github.com
+geeksforgeeks:geeksforgeeks.org
+wikipedia:wikipedia.org
+
